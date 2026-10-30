@@ -1,82 +1,57 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Emerson Victor — Desenvolvimento de software" />
+  <img src="./assets/banner.svg" width="100%" alt="Emerson Victor. Desenvolvimento de software. Ideias em código, aprendizado em prática." />
 </p>
 
-<p align="center">
-  <a href="#quem-sou">Quem sou</a> ·
-  <a href="#o-que-construo">O que construo</a> ·
-  <a href="#projetos-em-destaque">Projetos</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#vamos-conversar">Contato</a>
-</p>
+<br />
 
-<img src="./assets/divisor.svg" width="100%" alt="" />
+<img src="./assets/sobre.svg" width="100%" alt="01 — Quem sou" />
 
-## Quem sou
+Sou **Emerson Victor**, tecnólogo em **Análise e Desenvolvimento de Sistemas**. Gosto de entender como as coisas funcionam e transformar esse aprendizado em soluções práticas.
 
-Olá! Sou **Emerson Victor**, tecnólogo em **Análise e Desenvolvimento de Sistemas**.
+Meu foco está em **sistemas, aplicações web, APIs e automações**. Aqui compartilho projetos acadêmicos e pessoais, experimentos e minha evolução no desenvolvimento.
 
-Gosto de transformar ideias em soluções práticas e aprender construindo. Meus projetos passam por desenvolvimento de sistemas, aplicações web, APIs e automações — conectando fundamentos de programação a problemas do dia a dia.
+- **O que me move:** criar ferramentas úteis e simplificar tarefas do dia a dia.
+- **Como aprendo:** construindo, testando e melhorando a cada versão.
+- **Além do código:** impressão 3D e projetos maker na **Tekro 3D**.
 
-## O que construo
+<br />
 
-- **Sistemas e aplicações:** ferramentas para organizar informações e simplificar rotinas.
-- **Integrações e automações:** conexões entre serviços para reduzir tarefas repetitivas.
-- **Projetos acadêmicos e pessoais:** espaço para experimentar, estudar e evoluir a cada versão.
+<img src="./assets/projetos.svg" width="100%" alt="02 — Projetos em destaque" />
 
-## Minha visão
+<a href="https://github.com/emersonvictorferreira/HelpSeek-API"><img src="./assets/projeto-api.svg" width="100%" alt="HelpSeek API. ASP.NET Core, C# e SQL Server. Explorar repositório." /></a>
 
-Construir soluções úteis, entender como elas funcionam e melhorar continuamente. Para mim, cada projeto é uma oportunidade de aprender e colocar conhecimento em prática.
+<a href="https://github.com/emersonvictorferreira/HelpSeek-Web"><img src="./assets/projeto-web.svg" width="100%" alt="HelpSeek Web. Interface web do projeto. Explorar repositório." /></a>
 
-## Além do código
-
-Também exploro **impressão 3D e projetos maker** na Tekro 3D, unindo tecnologia, criatividade e soluções para o mundo físico.
-
-<img src="./assets/divisor.svg" width="100%" alt="" />
-
-## Projetos em destaque
-
-| Projeto | Proposta | Repositório |
-| :--- | :--- | :--- |
-| **HelpSeek · API** | API em ASP.NET Core para integração entre aplicações desktop, web e mobile. | [Explorar código ↗](https://github.com/emersonvictorferreira/HelpSeek-API) |
-| **HelpSeek · Web** | Interface web do projeto HelpSeek. | [Explorar código ↗](https://github.com/emersonvictorferreira/HelpSeek-Web) |
-| **HelpSeek · Android** | Aplicativo Android do projeto HelpSeek. | [Explorar código ↗](https://github.com/emersonvictorferreira/HelpSeek-Mobile-Android) |
+<a href="https://github.com/emersonvictorferreira/HelpSeek-Mobile-Android"><img src="./assets/projeto-android.svg" width="100%" alt="HelpSeek Android. Aplicativo mobile do projeto. Explorar repositório." /></a>
 
 <p align="right">
-  <a href="https://github.com/emersonvictorferreira?tab=repositories">Ver meus repositórios públicos →</a>
+  <a href="https://github.com/emersonvictorferreira?tab=repositories">Explorar todos os repositórios públicos ↗</a>
 </p>
 
-<img src="./assets/divisor.svg" width="100%" alt="" />
+<br />
 
-## Tecnologias
+<img src="./assets/tecnologias.svg" width="100%" alt="03 — Tecnologias" />
+
+<img src="./assets/tecnologias-grade.svg" width="100%" alt="HTML5, CSS3, Git e GitHub. Em aprendizado: Python, C e Linux." />
+
+<br />
+
+<img src="./assets/atividade.svg" width="100%" alt="04 — Atividade em código" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,c,linux,git,github&amp;theme=dark" alt="HTML5, CSS3, Python, C, Linux, Git e GitHub" />
+  <img src="./assets/contribuicoes-3d.svg" width="100%" alt="Gráfico 3D das contribuições de Emerson Victor no GitHub, atualizado diariamente" />
 </p>
 
-<p align="center">
-  <sub>HTML5 e CSS3 · Git e GitHub · Em aprendizado: Python, C e Linux</sub>
+<p align="right">
+  <a href="https://github.com/emersonvictorferreira?tab=overview">Acompanhar minhas contribuições ↗</a>
 </p>
 
-<img src="./assets/divisor.svg" width="100%" alt="" />
+<br />
 
-## Atividade em código
+<img src="./assets/contato.svg" width="100%" alt="05 — Vamos conversar?" />
 
-<p align="center">
-  <img src="./assets/contribuicoes-3d.svg" width="100%" alt="Gráfico 3D das contribuições de Emerson Victor no GitHub" />
-</p>
+<a href="mailto:emersonvictorferreira@hotmail.com"><img src="./assets/email.svg" width="100%" alt="Vamos construir algo útil? Envie um e-mail para emersonvictorferreira@hotmail.com." /></a>
 
-[Ver minhas contribuições no GitHub →](https://github.com/emersonvictorferreira?tab=overview)
+<br />
 
-<img src="./assets/divisor.svg" width="100%" alt="" />
-
-## Vamos conversar?
-
-<p align="center">
-  <a href="mailto:emersonvictorferreira@hotmail.com"><img src="https://img.shields.io/badge/E--mail-Fale%20comigo-a8df84?style=for-the-badge&amp;labelColor=17251c" alt="Enviar e-mail para Emerson Victor" /></a>
-  <a href="https://github.com/emersonvictorferreira"><img src="https://img.shields.io/badge/GitHub-Meus%20projetos-a8df84?style=for-the-badge&amp;labelColor=17251c&amp;logo=github&amp;logoColor=white" alt="Ver projetos no GitHub" /></a>
-</p>
-
-<p align="center">
-  <sub>Aprender. Construir. Melhorar. Repetir.</sub>
-</p>
+<img src="./assets/rodape.svg" width="100%" alt="Aprender. Construir. Melhorar. Repetir." />
