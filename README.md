@@ -62,7 +62,9 @@ Também exploro **impressão 3D e projetos maker** na Tekro 3D, unindo tecnologi
 
 ## Atividade em código
 
-<!-- CONTRIBUICOES_3D -->
+<p align="center">
+  <img src="./assets/contribuicoes-3d.svg" width="100%" alt="Gráfico 3D das contribuições de Emerson Victor no GitHub" />
+</p>
 
 [Ver minhas contribuições no GitHub →](https://github.com/emersonvictorferreira?tab=overview)
 
