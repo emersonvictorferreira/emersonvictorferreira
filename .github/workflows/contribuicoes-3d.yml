@@ -1,0 +1,39 @@
+name: Atualizar contribuições 3D
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribuicoes-3d.yml'
+      - 'scripts/traduzir_grafico.py'
+permissions:
+  contents: write
+concurrency:
+  group: perfil-contribuicoes
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    name: Gerar gráfico em português
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Obter arquivos
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+      - name: Gerar contribuições 3D
+        uses: yoshi389111/github-profile-3d-contrib@e235d118909be71eb7edb05482a3de4e76156df3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Traduzir gráfico
+        run: python3 scripts/traduzir_grafico.py
+      - name: Publicar atualização
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribuicoes-3d.svg README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza contribuições 3D"
+            git push
+          fi
